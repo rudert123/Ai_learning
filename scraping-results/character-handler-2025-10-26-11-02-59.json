@@ -1,0 +1,16 @@
+{
+  "job": {
+    "id": "c5095755-23a6-44c7-b303-448f2258141d",
+    "name": "character handler",
+    "url": "https://character.ai/",
+    "selector": "h1, h2, h3, p"
+  },
+  "timestamp": "2025-10-26T11:02:59.710Z",
+  "scrapedData": [],
+  "wordFrequencies": {},
+  "stats": {
+    "itemCount": 0,
+    "dataSize": 2,
+    "uniqueWords": 0
+  }
+}
