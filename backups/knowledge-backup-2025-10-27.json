@@ -1,5 +1,16 @@
 [
   {
+    "id": "0a69834e-d76b-4de5-b973-55c93dfd8392",
+    "title": "Sample reuters article (fallback)",
+    "content": "This is a fallback article from reuters. Web scraping may be blocked or the site structure may have changed.",
+    "source": "reuters",
+    "sourceUrl": "https://reuters.com",
+    "topic": null,
+    "summary": null,
+    "learningData": null,
+    "scrapedAt": "2025-10-27T04:48:07.231Z"
+  },
+  {
     "id": "475df8a0-b476-48d2-ab6f-e3eff6f811fa",
     "title": "Inside Syria's jail for IS suspects as officials say attacks by group are rising",
     "content": "Kurdish counter-terrorism officials tell the BBC so-called Islamic State cells in Syria are regrouping and increasing attacks.",
